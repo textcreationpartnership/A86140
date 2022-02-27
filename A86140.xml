@@ -1,0 +1,472 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Heads of agreement assented to by the united ministers in and about London, formerly called Presbyterian and Congregational</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86140</idno>
+            <idno type="STC">Wing H1282B</idno>
+            <idno type="STC">ESTC R42739</idno>
+            <idno type="EEBO-CITATION">38875678</idno>
+            <idno type="OCLC">ocm 38875678</idno>
+            <idno type="VID">152281</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86140)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152281)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2290:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Heads of agreement assented to by the united ministers in and about London, formerly called Presbyterian and Congregational</title>
+                  <author>Howe, John, 1630-1705.</author>
+               </titleStmt>
+               <extent>[4], 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by the Heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom. 1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Largely the work of John Howe. Cf. DNB.</note>
+                  <note>"Licensed and entred according to order."</note>
+                  <note>Reproduction of original in: Lambeth Palace Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterian Church --  Relations --  Congregational churches.</term>
+               <term>Christian union --  England --  London.</term>
+               <term>Congregational churches --  Relations --  Presbyterian Church.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152281:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>
+               <hi>HEADS of AGREEMENT</hi> Aſſented to by the United
+Miniſters In and about LONDON: Formerly called PRESBYTERIAN AND
+CONGREGATIONAL.</p>
+            <p>
+               <hi>Licenſed and Entered according to Order.</hi>
+            </p>
+            <p>
+               <hi>Edinburgh,</hi> Re-printed by the Heir of <hi>Andrew
+Anderſon,</hi> Prin<g ref="char:EOLhyphen"/>ter to Their Moſt Excellent Majeſties, <hi>Anno
+DOM.</hi> 1691.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:152281:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <pb facs="tcp:152281:2"/>
+            <!-- PDF PAGE 2 -->
+            <head>THE PREFACE to the READER.</head>
+            <p>ENdeavours for an Agreement among Chriſtians will be griev<g ref="char:EOLhyphen"/>ous
+to none who deſire the flouriſhing State of Chriſtianity it ſelf. The
+Succeſs of theſe Attempts amongſt us, muſt be aſcribed to a
+Preſence of God ſo ſignal, as not t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be concealed; and ſeems a hopeful Pledge of further
+Bleſsings.</p>
+            <p>The favour of our Rulers in the preſent eſtabliſhed
+Liberty, we moſt thankfully acknowledge; and to Them we are ſtudious to
+ap<g ref="char:EOLhyphen"/>prove our ſelves in the whole of this Affair. Therefore we Declare
+againſt intermedling with the National Church-Form: Impoſing theſe Terms
+of Agreement on others, is diſclaimed: All pretence to Coercive Power, is as
+unſuitable to our Principles, as to our Cir<g ref="char:EOLhyphen"/>cumſtances: Excommunication it
+ſelf in our reſpective Churches, being no other than a declaring ſuch
+ſcandalous Members as are ir<g ref="char:EOLhyphen"/>reclaimable, to be incapable of Communion with
+us in things pecu<g ref="char:EOLhyphen"/>liar to Viſible Believers: And in all, we expreſly
+determine our purpoſe, to the maintaining of Harmony and Love among our
+ſelves, and preventing the inconveniencies, which humane weak<g ref="char:EOLhyphen"/>neſs maay
+expoſe to in our uſe of this Liberty.</p>
+            <p>The general concurrence of Minister and People in this City, and
+the great diſpoſition thereto in other places, perſwade us this happy
+Work is undertaken in a ſeaſon deſigned for ſuch Divine in<g ref="char:EOLhyphen"/>fluences, as
+will overcome all impediments to Peace, and convince of that Agreement, which
+has been always among us in a good de<g ref="char:EOLhyphen"/>gree, tho neither to our ſelves nor
+others ſo evident, as hereby it is now acknowledged.</p>
+            <p>Need there any Arguments to recommend this <g ref="char:V">Ʋ</g>nion? Is not this
+what we all have prayed for, and Providence by the directeſt indications hath
+been long calling and diſpoſing us to? can either Zeal for God or prudent
+regards to our ſelves remiſsly ſuggeſt it? ſeing the Bleſsings
+thereof are ſo important, and when it's be<g ref="char:EOLhyphen"/>come in ſo many reſpects even
+abſolutely neceſsary eſpecially as it may conduce to the preſervation
+of the Protestant Religion, and the Kingdoms Weal; a ſubſerviency whereto,
+ſhall always govern <pb facs="tcp:152281:3"/>
+               <!-- PDF PAGE 3 -->our United
+Abilities, with the ſame diſpoſition to a concurrence with all others who
+are duly concerned for thoſe National Bleſsings.</p>
+            <p>As theſe conſiderations render this Agreement deſirable,
+ſo they equally urge a watchful care againſt all attempts of Satan to
+diſſolve it, or frustrate the good effects thereof, ſo manifestly
+deſtructive to his Kingdom. Therefore it's incumbent on us, to forbear
+con<g ref="char:EOLhyphen"/>demning and diſputing thoſe different ſentiments and practices we
+have expreſly allowed for: To reduce all diſtinguiſhing Names, to that of
+<hi>United Brethren:</hi> To admit no uncharitable jealouſies, or
+conſorious ſpeeches; much leſs any debates, whether Party ſeems moſt
+favoured by this Agreement. Such carnal regards are of ſmall moment with us,
+who herein have uſed words leſs accurate, that neither ſide might in
+their various conceptions about leſser matters be contradicted, when in all
+ſubstantials we are fully of one mind; and from this time hope more perfectly
+to rejoyce in the Honour, Gifts, and Succeſs of each other, as our common
+good.</p>
+            <p>That we as United, may contribute our utmoſt to the great
+con<g ref="char:EOLhyphen"/>cernments of our Redeemer, it's mutually reſolved, we will aſsiſt
+each other with our Labours, and meet and conſult, without the leaſt
+ſhadow of ſeparate or diſtinct Parties: Whence we joyfully ex<g ref="char:EOLhyphen"/>pect great
+Improvements in Light and Love, through the more abundant ſupplies of the
+Spirit; being well aſſured we herein ſerve that <hi>Prince of Peace, of
+the increaſe of whoſe Govern<g ref="char:EOLhyphen"/>ment and Peace, there ſhall be no
+end.</hi>
+            </p>
+            <p>
+               <hi>This Agreement is already aſſented to by above
+Fourſcore Miniſters, and the Preface approved of.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:152281:3"/>
+            <!-- PDF PAGE 3 -->
+            <head>HEADS of AGREEMENT Aſſented to by the United Miniſters,
+<hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>The following Heads of</hi> Agreement <hi>have been
+Reſolved upon, by the</hi> United <hi>Miniſters in and about</hi> London,
+<hi>formerly called</hi> Presby<g ref="char:EOLhyphen"/>terian <hi>and</hi> Congregational; <hi>not as
+a Meaſure for any</hi> National Conſtitution, <hi>but for the
+Preſervation of Order in our Congrega<g ref="char:EOLhyphen"/>tions, that cannot come up to the
+Common Rule by Law Eſtabliſhed.</hi>
+            </p>
+            <div n="1" type="part">
+               <head>I. <hi>Of</hi> Churches <hi>and</hi> Church-Members.</head>
+               <p n="1">1. WE Acknowledge our <hi>Lord Jeſus Chriſt</hi> to
+have one <hi>Catholick Church,</hi> or <hi>Kingdom,</hi> compre<g ref="char:EOLhyphen"/>hending all
+that are united to him, whether in <hi>Heaven</hi> or <hi>Earth.</hi> And do
+conceive the whole multitude of vi<g ref="char:EOLhyphen"/>ſible Believers, and their Infant-Seed
+(commonly called the <hi>Catholick Church</hi>) to belong to <hi>Chriſt's
+Spiritual Kingdom</hi> in this world: But for the notion of a <hi>Catholick
+Viſible Church</hi> here, as it ſignifies its having been collected into
+any formed Society, un<g ref="char:EOLhyphen"/>der a viſible humane Head on Earth, whether one
+Perſon ſingly, or many collectively, We, with the reſt of the
+Proteſtants, una<g ref="char:EOLhyphen"/>nimouſly diſclaim it.</p>
+               <p n="2">2. We agree, That particular Societies of viſible
+Saints, who under Chriſt their Head, are ſtatedly joyned together for
+ordi<g ref="char:EOLhyphen"/>nary Communion with one another, in all the Ordinances of Chriſt, are
+particular Churches, and are to be owned by each other, as Inſtituted
+Churches of Chriſt, tho differing in appre<g ref="char:EOLhyphen"/>henſions and practice in ſome
+leſſer things.</p>
+               <p n="3">3. That none ſhall be admitted as Members, in order to
+Com<g ref="char:EOLhyphen"/>munion in all the ſpecial Ordinances of the Goſpel, but ſuch
+perſons as are knowing and ſound in the fundamental Doctrines of the
+Chriſtian Religion, without Scandal in their Lives; and to a Judgment
+regulated by the VVord of God, are perſons of <pb n="2" facs="tcp:152281:4"/>
+                  <!-- PDF PAGE 4 -->viſible
+Godlineſs and Honeſty; crediby profeſſing cordial ſub<g ref="char:EOLhyphen"/>jection to
+Jeſus Chriſt.</p>
+               <p n="4">4. A competent Number of ſuch <hi>viſible
+Saints</hi> (as before deſcribed) do become the capable Subjects of ſtated
+Commu<g ref="char:EOLhyphen"/>nion in all the <hi>ſpecial Ordinances of Chriſt</hi> upon their
+mutual de<g ref="char:EOLhyphen"/>clared conſent and agreement, <hi>to walk together therein
+according to Goſpel-Rule.</hi> In which declaration, differerent degrees of
+<hi>Expliciteneſs,</hi> ſhall no no way hinder ſuch Churches from own<g ref="char:EOLhyphen"/>ing
+each other, as <hi>Instituted Churches.</hi>
+               </p>
+               <p n="5">5. Tho <hi>Parochial Bounds</hi> be not of <hi>Divine
+Right,</hi> yet for common Edification, the Members of a <hi>particular
+Church</hi> ought (as much as conveniently may be) to live near one
+another.</p>
+               <p n="6">6. That each <hi>particular Church</hi> hath Right to
+chuſe their own Officers; and being furniſhed with ſuch as are <hi>duly
+qualifi<g ref="char:EOLhyphen"/>ed</hi> and <hi>ordained</hi> according to the Goſpel-Rule, hath
+Authority from Chriſt for exerciſing <hi>Government,</hi> and of enjoying
+all the <hi>Ordinances of Worſhip</hi> within it ſelf.</p>
+               <p n="7">7. In the Adminiſtration of <hi>Church Power,</hi> it
+belongs to the <hi>Pastors</hi> and other <hi>Elders</hi> of every particular
+Church (if ſuch there be) to <hi>Rule &amp; Govern:</hi> and to the
+Brotherhood to <hi>Conſent,</hi> according to the <hi>Rule of the
+Goſpel.</hi>
+               </p>
+               <p n="8">8. That all Profeſſors as before deſcribed, are
+bound in duty, as they have opportunity, to join themſelves as <hi>fixed
+Members</hi> of ſome particular Church; their thus joining, being part of
+their profeſſed ſubjection to the <hi>Goſpel of Chriſt,</hi> and an
+inſtitu<g ref="char:EOLhyphen"/>ted means of their Eſtabliſhment and Edification; whereby they
+are under the <hi>Pastoral Care,</hi> and in caſe of <hi>ſcandalous</hi> or
+<hi>offen<g ref="char:EOLhyphen"/>ſive walking,</hi> may be Authoritatively Admoniſhed or
+Cenſured for their recovery, and for vindication of the <hi>Truth,</hi> and
+the <hi>Church</hi> profeſſing it.</p>
+               <p n="9">9. That a <hi>viſible Profeſſor</hi> thus joined
+to a <hi>particular Church,</hi> ought to continue ſtedfaſtly with the
+ſaid Church; and not for<g ref="char:EOLhyphen"/>ſake the Miniſtry and Ordinances there
+diſpenſed, without an orderly ſeeking a recommendation unto another
+Church; <pb n="3" facs="tcp:152281:4"/>
+                  <!-- PDF PAGE 4 -->Which ought to be
+given, when the caſe of the perſon ap<g ref="char:EOLhyphen"/>parently requires it.</p>
+            </div>
+            <div n="2" type="part">
+               <head>II. <hi>Of the</hi> Miniſtry.</head>
+               <p n="1">1. WE agree, That the <hi>Miniſterial Office</hi> is
+inſtituted by Jeſus Chriſt, for the Gathering, Guiding, Edify<g ref="char:EOLhyphen"/>ing, and
+Governing of his <hi>Church;</hi> and to continue to the end of the World.</p>
+               <p n="2">2. They who are called to this <hi>Office,</hi> ought to
+be endued with <hi>competent Learning,</hi> and <hi>Miniſterial Gifts,</hi>
+as alſo with the Grace of God, ſound in Judgment, not Novices in the Faith
+and Knowledge of the Goſpel; without ſcandal, of holy Con<g ref="char:EOLhyphen"/>verſation, and
+ſuch as <hi>devote</hi> themſelves to the Work and Ser<g ref="char:EOLhyphen"/>vice thereof.</p>
+               <p n="3">3. That ordinarly none ſhall be Ordained to the Work
+of this Miniſtry, but ſuch as are <hi>called</hi> and <hi>choſen</hi>
+thereunto by a particular Church.</p>
+               <p n="4">4. That in ſo great and weighty a matter, as the
+calling and chuſing a <hi>Pastor,</hi> we judge it ordinarly requiſit, That
+every ſuch Church conſult and adviſe with the <hi>Paſtors</hi> of
+Neighbour<g ref="char:EOLhyphen"/>ing Congregations.</p>
+               <p n="5">5. That after ſuch <hi>Advice,</hi> the Perſon
+conſulted about, be<g ref="char:EOLhyphen"/>ing choſen by the Brotherhood of that particular
+Church, over which he is to be ſet, and he accepting, be duly ordained, and
+ſet apart to his Office over them; wherein 'tis ordinarly requifite, That the
+<hi>Paſtors</hi> of <hi>Neighbouring Congregations</hi> concur with the
+<hi>Preaching-Elder,</hi> or <hi>Elders,</hi> if ſuch there be.</p>
+               <p n="6">6. That whereas ſuch <hi>Ordination</hi> is only
+intended for ſuch as never before had been ordained to the <hi>Ministerial
+Office;</hi> If any judge, that in the caſe alſo of the removal of one
+formerly <hi>Or<g ref="char:EOLhyphen"/>dained</hi> to a new Station, or <hi>Paſtoral Charge,</hi>
+there ought to be a like Solemn recomending him and his Labours <hi>to the
+Grace and Bleſſing of God;</hi> no different Sentiments or Practice
+here<g ref="char:EOLhyphen"/>in, ſhall be any occaſion of <hi>Contention</hi> or <hi>Breach of
+Communion</hi> among us.</p>
+               <pb n="4" facs="tcp:152281:5"/>
+               <!-- PDF PAGE 5 -->
+               <p n="7">7. It is expedient, that they who enter on the work of
+<hi>Preaching the Goſpel,</hi> be not only qualified for Communion of Saints;
+but alſo that, except in <hi>caſes extraordinary,</hi> they give proof of
+their <hi>Gifts</hi> and <hi>fitneſs</hi> for the <hi>ſaid work,</hi> unto
+the <hi>Paſtors</hi> of Churches of <hi>known abilities,</hi> to diſcern
+and judge of their <hi>qua<g ref="char:EOLhyphen"/>lifications;</hi> That they may be ſent forth with
+<hi>Solemn Approba<g ref="char:EOLhyphen"/>tion</hi> and <hi>Prayer;</hi> which we judge needful, that
+no doubt may remain concerning their being Called to the work; and for
+pre<g ref="char:EOLhyphen"/>venting (as much as in us lieth) <hi>Ignorant and raſh
+Intruders.</hi>
+               </p>
+            </div>
+            <div n="3" type="part">
+               <head>III. <hi>Of</hi> Cenſures.</head>
+               <p n="1">1. AS it cannot be avoided, but that in the <hi>purest
+Churches</hi> on Earth, there will ſometimes <hi>Offences</hi> and
+<hi>Scandals</hi> ariſe, by reaſon of <hi>Hypocriſie</hi> and
+<hi>prevailing corruption;</hi> ſo Chriſt hath made it the Duty of every
+Church, to reform it ſelf by <hi>Spiritual Remedies,</hi> appointed by him to
+be applied in all ſuch caſes; <hi>viz. Admonition,</hi> and
+<hi>Excommunication.</hi>
+               </p>
+               <p n="2">2. <hi>Admonition,</hi> being the rebuking of an
+<hi>Offending Member,</hi> in order to conviction, is in caſe of <hi>private
+offences</hi> to be perfor<g ref="char:EOLhyphen"/>med, according to the Rule in <hi>Mat.</hi> 18
+<hi>v.</hi> 15, 16, 17. And in caſe of <hi>Publick offences,</hi> openly
+before the Church, as the <hi>Ho<g ref="char:EOLhyphen"/>nour of the Goſpel,</hi> and <hi>nature of
+the Scandal</hi> ſhall require: And if either of the <hi>Admonitions</hi>
+take place for the recovery of the <hi>fallen Perſon,</hi> all further
+proceedings in a way of <hi>cenſure,</hi> are thereon to ceaſe, and
+<hi>ſatisfaction</hi> to be declared accordingly.</p>
+               <p n="3">3. When all due means are uſed, according to the Order
+of the Goſpel, for the reſtoring an offending and ſcandalous Bro<g ref="char:EOLhyphen"/>ther;
+and he notwithſtanding remains Impenitent, the Cenſure of Excommunication
+is to be proceeded unto; Wherein the Paſtor and other Elders (if there be
+ſuch) are to lead, and go before the Church; and the Brother-hood to give
+their conſent, in a way of obedience unto Chriſt, and unto the El<g ref="char:EOLhyphen"/>ders, as
+over them in the Lord.</p>
+               <pb n="5" facs="tcp:152281:5"/>
+               <!-- PDF PAGE 5 -->
+               <p n="4">4. It may ſometimes come to paſs, that a
+Church-Member, not otherwiſe Scandalous, may ſinfully withdraw, and divide
+himſelf from the Communion of the Church, to which he be<g ref="char:EOLhyphen"/>longeth: In which
+caſe, when all due means for the reducing him, prove ineffectual, he having
+hereby cut himſelf off from that Church Communion; the Church may juſtly
+eſteem, and declare it ſelf diſcharged of any further inſpection over
+him.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV. <hi>Of</hi> Communion <hi>of</hi> Churches.</head>
+               <p>WE Agree, that Particular Churches ought not to walk ſo
+diſtinct and ſeparate from each other, as not to have care and tenderneſs
+towards one another. But their Paſtors ought to have frequent meetings
+together, that by mutual Advice, Support, Encouragement, and Brotherly
+intercourſe, they may ſtrengthen the hearts and hands of each other, in the
+ways of the Lord.</p>
+               <p n="2">2. That none of our particular Churches ſhall be
+ſubordinat to one another; each being endued with equality of Power from
+Jeſus Chriſt. And that none of the ſaid particular Church<g ref="char:EOLhyphen"/>es, their
+Officer, or Officers, ſhall exerciſe any Power, or have any Superiority
+over any other Church, or their Officers.</p>
+               <p n="3">3. That known Members of particular Churches,
+conſti<g ref="char:EOLhyphen"/>tuted as aforeſaid, may have occaſional Communion with one another
+in the <hi>Ordinances of the Goſpel,</hi> viz. the <hi>Word, Prayer,
+Sacraments, Singing Pſalms,</hi> diſpenſed according to the mind of
+Chriſt: Unleſs that Church, with which they deſire Communion, hath any
+juſt exception againſt them.</p>
+               <p n="4">4. That we ought not to admit any one to be a Member of
+our reſpective Congregations, that hath joyned himſelf to another, without
+endeavours of mutual Satisfaction of the Congregations concerned.</p>
+               <p n="5">5. That one Church ought not to blame the Proceedings of
+another, until it hath heard what that Church charged its Elders, or
+Meſſengers, can ſay in vindication of them<g ref="char:EOLhyphen"/>ſelves, from any charge of
+Irregular or Injurious Proceedings.</p>
+               <pb n="6" facs="tcp:152281:6"/>
+               <!-- PDF PAGE 6 -->
+               <p n="6">6. That we are moſt willing and ready to give an
+ac<g ref="char:EOLhyphen"/>count of our Church Proceedings to each other, when de<g ref="char:EOLhyphen"/>ſired; for
+preventing or removing any offences that may ariſe among us. Likewiſe we
+ſhall be ready to give the right hand of fellowſhip, and walk together
+according to the Go<g ref="char:EOLhyphen"/>ſpel-Rules of Communion of Churches.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V. Of <hi>Deacons</hi> and <hi>Ruling Elders.</hi>
+               </head>
+               <p>WE agree, The Office of a Deacon is of Divine Ap<g ref="char:EOLhyphen"/>pointment,
+and that it belongs to their Office to re<g ref="char:EOLhyphen"/>ceive, lay out, and diſtribute the
+Churches Stock to its pro<g ref="char:EOLhyphen"/>per uſes, by the direction of the Paſtor, and the
+Brethren, if need be. And whereas divers are of opinion, That there is alſo
+the Office of Ruling Elders, who labour not in Word and Doctrine; and others
+think otherwiſe; We agree, That this difference make no breach among us.</p>
+            </div>
+            <div n="6" type="part">
+               <head>VI. <hi>Of Occaſional</hi> Meetings <hi>of
+Ministers,</hi> &amp;c.</head>
+               <p n="1">1. WE agree, That in order to concord, and in any other
+weighty and difficult caſes, it is needful, and according to the mind of
+Chriſt, that the Miniſters of ſe<g ref="char:EOLhyphen"/>veral Churches be conſulted and
+adviſed with about ſuch Matters.</p>
+               <p n="2">2. That ſuch Meetings may conſiſt of ſmaller or
+greater Numbers, as the Matter ſhall require.</p>
+               <p n="3">3. That particular Churches, their reſpective Elders,
+and Members, ought to have a reverential regard to their judge<g ref="char:EOLhyphen"/>ment ſo given,
+and not diſſent therefrom, without apparent grounds from the word of
+God.</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII. <hi>Of our</hi> Demeanour <hi>towards the</hi> Civil
+Magiſtrat.</head>
+               <p n="1">1. WE do reckon our ſelves obliged, continually to
+pray for God's Protection, Guidance, and Bleſſing u<g ref="char:EOLhyphen"/>pon the Rulers ſet
+over us.</p>
+               <pb n="7" facs="tcp:152281:6"/>
+               <!-- PDF PAGE 6 -->
+               <p n="2">2. That we ought to yield unto them, not only
+ſubjection in the Lord, but ſupport, according to our ſtation and
+abilities.</p>
+               <p n="3">3. That if at any time it ſhall be their pleaſunt to
+call to<g ref="char:EOLhyphen"/>gether any Number of us, or require any accoun of our Af<g ref="char:EOLhyphen"/>fairs, and the
+ſtate of our Congregations, we ſhall moſt readi<g ref="char:EOLhyphen"/>ly expreſs all dutiful
+regard to them herein.</p>
+            </div>
+            <div n="8" type="part">
+               <head>VIII. <hi>Of a</hi> Confeſſion <hi>of</hi>
+Faith.</head>
+               <p>AS to what appertains to ſoundneſs of Judgment in mat<g ref="char:EOLhyphen"/>ters
+of Faith, we eſteem it ſufficient, That a Church ac<g ref="char:EOLhyphen"/>knowledge the
+Scriptures to be the word of God, the per<g ref="char:EOLhyphen"/>fect, and only Rule of Faith and
+Practice; and owne either the Doctrinal part of thoſe, commonly called the
+Articles of the Church of <hi>England,</hi> or the Confeſſion, or
+Catechiſms, Shorter or Larger, compiled by the Aſſembly at
+<hi>Weſtminſter,</hi> or the Confeſſion agreed on at the
+<hi>Savoy,</hi> to be agreeable to the ſaid Rule.</p>
+            </div>
+            <div n="9" type="part">
+               <head>
+                  <hi>IX.</hi> Of our <hi>Duty</hi> and <hi>Deportment</hi>
+towards them, that are not in Communion with us.</head>
+               <p n="1">1. WE judge it our duty to bear a Chriſtian Reſpect
+to all Chriſtians, according to their ſeveral Ranks and Sta<g ref="char:EOLhyphen"/>tions, that are
+not of our Perſwaſion or Communion.</p>
+               <p n="2">2. As for ſuch as may be ignorant of the Principles of
+the Chriſtian Religion, or of vicious converſation, we ſhall in our
+reſpective Places, as they give us opportunity, endeavour to explain to them,
+the Doctrine of Life and Salvation, and to our uttermoſt perſwade them to
+be reconciled to God.</p>
+               <p n="3">3. That ſuch who appear to have the Eſſential
+Requiſites to Church-Communion, we ſhall willingly receive them in the
+Lord, not troubling them with Diſputes about leſſer matters.</p>
+               <p>
+                  <hi>As we Aſſent to the forementioned</hi> Heads of
+Agreement; <hi>So we <g ref="char:V">Ʋ</g>nanimouſly Reſolve as the Lord ſhall enable us,
+to</hi> Practiſe, <hi>according to them.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
